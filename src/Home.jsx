@@ -44,7 +44,7 @@ export default function Home() {
                 <h1 className='text-center md:text-6xl text-4xl font-bold'>Random Password Generator</h1>
                 <h2 className='text-center md:text-xl text-sm mt-8'>Create strong and secure passwords to keep your account safe online.</h2>
             </div>
-            <div className='w-3/4 border rounded-tl-2xl rounded-tr-2xl mx-auto flex flex-col md:flex-row items-center justify-around bg-white'>
+            <div className='w-3/4 border rounded-tl-2xl rounded-tr-2xl mx-auto flex flex-col md:flex-row items-center justify-around bg-white md:mb-0 mb-8'>
                 <div>
                     <img src={image} alt="" />
                 </div>
